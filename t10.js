@@ -26,8 +26,8 @@ class BankAccount {
     }
   }
   
-  const abhi = new BankAccount('Abhi', 1000);
-  const raghu = new BankAccount('Raghu', 500);
+  const abhi = new BankAccount('Abhi', 100);
+  const raghu = new BankAccount('abhinav', 800);
   
   abhi.transfer = transfer;
   raghu.transfer = transfer;
