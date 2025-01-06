@@ -11,9 +11,9 @@ function Student(name, grade) {
     };
 }
 
-const student1 = new Student("Abhi", "A");
-const student2 = new Student("jai", "B");
-const student3 = new Student("raghu", "A+");
+const student1 = new Student("Abhinav", "A");
+const student2 = new Student("abhi", "S");
+const student3 = new Student("abbinay", "A+");
 
 student1.study();
 console.log(`${student1.name}'s grade:${student1.getGrade()}`);
