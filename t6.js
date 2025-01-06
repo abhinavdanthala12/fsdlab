@@ -20,10 +20,10 @@ Student.prototype.study = function() {
 
 Student.prototype.constructor = Student;
 
-const person1 = new Person("abhi "  , 30);
+const person1 = new Person("abhi "  , 80);
 console.log(person1.describe());
 
-const student1 = new Student("jai ", 20, "A");
+const student1 = new Student("somu ", 50, "A");
 console.log(student1.describe());
 console.log(student1.study());
 
