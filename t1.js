@@ -1,16 +1,16 @@
-//let
 
-let x=20;
+
+let x=30;
 console.log(x);
 
 x=10;
-console.log(x + " "+typeof x);
+console.log(x);
 
 let name="abhi";
-console.log(name +" "+typeof name);
+console.log(name);
 
 let crct=true;
-console.log(crct+" "+typeof crct);
+console.log(crct);
 
 //var
 
